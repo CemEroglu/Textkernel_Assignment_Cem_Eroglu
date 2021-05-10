@@ -17,7 +17,7 @@ After setting up everything, the project should seem like below. It has two filt
 ![](screenshots/Firstlook.png)
 
 ## Filtering
-You can filter vacancies by job title or organization name. If you haven't filter by organization, unknown organizations also be shown.
+You can filter vacancies by job title or organization name. If you haven't filtered by organization, unknown organizations also be shown.
 ![](screenshots/onefilter.png)
 
 ## Multi Filtering
