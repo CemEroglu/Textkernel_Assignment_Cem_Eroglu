@@ -22,7 +22,7 @@ You can filter vacancies by job title or organization name. If you haven't filte
 
 ## Multi Filtering
 You can also filter vacancies by job title and organization name at the same time.
-![](screenshots/twofilters.png)
+![](screenshots/Twofilters.png)
 
 ## Ignoring
 You can ignore vacancies if it's not for you. It will not be shown for the rest of your session.
