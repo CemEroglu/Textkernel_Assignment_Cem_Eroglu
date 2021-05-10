@@ -1,0 +1,12 @@
+.DeleteButton{
+    border-color: rgb(247,140,139);
+    background-color:  rgb(247,140,139);
+    color:white;
+}
+.frame{
+    border-radius: 25px;
+    border: 2px solid #219dad;
+    padding: 20px;
+    width: 400px;
+    height: 400px;
+}

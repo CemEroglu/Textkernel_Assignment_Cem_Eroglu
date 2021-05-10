@@ -1,0 +1,64 @@
+html, body, .root {
+  height: 100%;
+}
+
+body {
+  line-height: 1.5;
+}
+
+body, .app {
+  background: white;
+}
+
+/* main page */
+
+.list-title {
+  padding: 10px 0;
+  background: rgb(12, 156, 193);
+  text-align: center;
+}
+
+.list-title h1 {
+  font-weight: 400;
+  margin: 0;
+  color: white;
+}
+
+.list-content {
+  padding: 0 0 80px;
+  flex: 1;
+}
+
+.shelf {
+  padding: 0 10px 20px;
+}
+
+@media (min-width: 600px) {
+  .shelf {
+    padding: 0 20px 40px;
+  }
+}
+
+.shelf-title {
+  border-bottom: 1px solid #dedede;
+}
+
+.shelf-jobs {
+  text-align: center;
+}
+
+/* jobs grid */
+
+.jobs-grid {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.jobs-grid li {
+  padding: 10px 15px;
+  text-align: left;
+}
