@@ -28,5 +28,9 @@ You can also filter vacancies by job title and organization name at the same tim
 You can ignore vacancies if it's not for you. It will not be shown for the rest of your session.
 ![](screenshots/Ignorepressed.png)
 
+## Zoom
+You can zoom to the map and see where the job is located more specifically.
+![](screenshots/zoom.png)
+
 ## Coummunication
 You can reach me via my e-mail for anything related: cemeroglu96@gmail.com
