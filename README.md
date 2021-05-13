@@ -32,5 +32,5 @@ You can ignore vacancies if it's not for you. It will not be shown for the rest 
 You can zoom to the map and see where the job is located more specifically.
 ![](screenshots/zoom.png)
 
-## Coummunication
+## Communication
 You can reach me via my e-mail for anything related: cemeroglu96@gmail.com
